@@ -19,7 +19,7 @@
   <img align="center" alt="Generoso-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
   
-### Atualmetne estou aprofundando os estudos em:
+### Atualmente estou aprofundando os estudos em:
 <div style="display: inline_block">
   <img align="center" alt="Generoso-CShar" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Generoso-dotnet" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
