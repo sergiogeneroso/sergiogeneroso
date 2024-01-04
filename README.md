@@ -1,4 +1,4 @@
-## Olá, sou Sérgio Generoso, tenho 28 anos, natural de Sabinopolis - MG (Interiozão de minas).
+## Olá, sou Sérgio Generoso, tenho 29 anos, natural de Sabinopolis - MG (Interiozão de minas).
 ### Formado em Sistemas de Informaçãa, sou apaixonado por tecnologia, e trabalho com programação desde 2019.
 
 <div align="center">
