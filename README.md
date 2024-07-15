@@ -13,7 +13,7 @@
   <img align="center" alt="Generoso-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Generoso-Jenkins" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Generoso-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Generoso-Delphi" height="40" width="50" src="https://dtffvb2501i0o.cloudfront.net/images/logos/logo-page/delphi-logo-1024.png">
+  <img align="center" alt="Generoso-Delphi" height="40" width="50" src="https://img.icons8.com/?size=100&id=Lz7oiCpdanST&format=png&color=000000">
   <img align="center" alt="Generoso-CShar" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Generoso-Cpp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Generoso-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
